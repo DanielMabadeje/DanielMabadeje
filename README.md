@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+My name is Daniel Mabadeje, i am a full stack developer with Javscript, PHP, JQuery, HTML5, CSS3, Python, Laravel, Django, SQL, MongoDB stacks.
+I'm currently working in a team building products for the future, I am currently diving into Machine Learning using Python.Ask me anything concerning web applications,Databases, Server side languages and the above listed stacks. You can reach me via mail:mabadejedaniel1@gmail.com
+
+Fun fact I am working on a PHP framework
