@@ -43,3 +43,7 @@ Fun fact I am working on a PHP framework
 
 <codersrank-skills-chart username="DanielMabadeje"></codersrank-skills-chart>
 
+  <img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DanielMabadeje&skills=JavaScript,PHP&show-other-skills=true"
+/>
+
