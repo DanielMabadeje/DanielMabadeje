@@ -39,3 +39,7 @@ Fun fact I am working on a PHP framework
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMabadeje&layout=compact" />
 </div>
 
+<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
+
+<codersrank-skills-chart username="DanielMabadeje"></codersrank-skills-chart>
+
