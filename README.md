@@ -39,11 +39,11 @@ Fun fact I am working on a PHP framework
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMabadeje&layout=compact" />
 </div>
 
-<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
+<!-- <script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
 
-<codersrank-skills-chart username="DanielMabadeje"></codersrank-skills-chart>
+<codersrank-skills-chart username="DanielMabadeje"></codersrank-skills-chart> -->
 
   <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DanielMabadeje&skills=JavaScript,PHP&show-other-skills=true"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DanielMabadeje&skills=JavaScript,PHP,CSS,HTML,Python,Vue&show-other-skills=true"
 />
 
