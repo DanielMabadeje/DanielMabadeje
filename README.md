@@ -33,17 +33,17 @@ Fun fact I am working on a PHP framework
 </p>
 
 ---
-<img width="600" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=DanielMabadeje" />
+<!-- <img width="600" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=DanielMabadeje" />
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=DanielMabadeje&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMabadeje&layout=compact" />
-</div>
+</div> -->
 
 <!-- <script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
 
 <codersrank-skills-chart username="DanielMabadeje"></codersrank-skills-chart> -->
-
+<!-- 
   <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DanielMabadeje&skills=JavaScript,PHP,CSS,HTML,Python,Vue&show-other-skills=true"
-/>
+/> -->
 
