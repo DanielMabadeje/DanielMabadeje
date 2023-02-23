@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 
 
-<p align="middle">
+<!-- <p align="middle">
   <img width="600" src="https://github-profile-trophy.vercel.app/?username=DanielMabadeje&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
-</p>
+</p> -->
 
 ---
 <!-- <img width="600" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=DanielMabadeje" />
