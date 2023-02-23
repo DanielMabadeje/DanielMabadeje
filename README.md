@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 -->
 
 
-😊 My name is Daniel Mabadeje, I am a software developer with Javascript/JQuery/Vue, PHP/Laravel stacks.
-🔭 I'm very excited to work with products and ideas that help make the world a better place. 
-🌱 I'm currently learning deeper concepts in laravel and also trying my hands on c#
-💬 Ask me anything concerning Web applications,Databases, Server side languages and the above listed stacks. You can reach me via         mail:mabadejedaniel1@gmail.com
+# 😊 My name is Daniel Mabadeje, I am a software developer with Javascript/JQuery/Vue, PHP/Laravel stacks.
+# 🔭 I'm very excited to work with products and ideas that help make the world a better place. 
+# 🌱 I'm currently learning deeper concepts in laravel and also trying my hands on c#
+# 💬 Ask me anything concerning Web applications,Databases, Server side languages and the above listed stacks. You can reach me via         mail:mabadejedaniel1@gmail.com
 
 ⚡ Fun fact I have fallen in love in speaking
 
