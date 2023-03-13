@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  🌱 I'm currently learning deeper concepts in laravel and also trying my hands on c#. 
  💬 Ask me anything concerning Web applications,Databases, Server side languages and the above listed stacks. You can reach me via mail @ mabadejedaniel1@gmail.com
 
-⚡ Fun fact I have fallen in love in public speaking
+⚡ Fun fact I have fallen in love with public speaking
 
 
 
